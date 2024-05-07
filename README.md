@@ -30,6 +30,7 @@ __Teste 6__
 
 [Google](https://www.google.com)
 
+### Imagem com link
 [![Logo Python](img/JavaScript-logo.png)](https://www.google.com)
 
 ```javascript
