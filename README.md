@@ -30,5 +30,10 @@ __Teste 6__
 
 [Google](https://www.google.com)
 
+[![Logo Python](img/JavaScript-logo.png)](https://www.google.com)
 
-
+```javascript
+function soma(a,b){
+    return a + b
+} 
+```
