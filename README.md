@@ -12,7 +12,7 @@ __Teste 6__
 * JS
 * PHP
 
-## Funcionalidade a desenvolver
+## Funcionalidade a desenvolver'
 1. x
     1. z
     2. y
@@ -23,3 +23,7 @@ __Teste 6__
 ## Logo Javascript
 
 ![Logo Python](img/JavaScript-logo.png)
+![Logo PHP](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png)
+
+
+
