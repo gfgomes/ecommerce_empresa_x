@@ -38,3 +38,8 @@ function soma(a,b){
     return a + b
 } 
 ```
+
+## Lista de tarefas
+
+- [ ] Não feito
+- [x] Feito
